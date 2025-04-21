@@ -27,6 +27,8 @@
 		083B1E852DB4DF6500B4C3D2 /* PingPongReviews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PingPongReviews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		083B1E922DB4DF6600B4C3D2 /* PingPongReviewsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PingPongReviewsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		083B1E9C2DB4DF6600B4C3D2 /* PingPongReviewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PingPongReviewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		08BC90862DB5FB7E007D367F /* Simulator Screenshot - iPhone 16 Pro - 2025-04-20 at 04.02.19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 16 Pro - 2025-04-20 at 04.02.19.png"; sourceTree = "<group>"; };
+		08BC90872DB5FB7E007D367F /* Simulator Screenshot - iPhone 16 Pro - 2025-04-20 at 04.02.27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 16 Pro - 2025-04-20 at 04.02.27.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +77,7 @@
 		083B1E7C2DB4DF6500B4C3D2 = {
 			isa = PBXGroup;
 			children = (
+				08BC90852DB5FB56007D367F /* Images */,
 				083B1E872DB4DF6500B4C3D2 /* PingPongReviews */,
 				083B1E952DB4DF6600B4C3D2 /* PingPongReviewsTests */,
 				083B1E9F2DB4DF6600B4C3D2 /* PingPongReviewsUITests */,
@@ -90,6 +93,15 @@
 				083B1E9C2DB4DF6600B4C3D2 /* PingPongReviewsUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		08BC90852DB5FB56007D367F /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				08BC90862DB5FB7E007D367F /* Simulator Screenshot - iPhone 16 Pro - 2025-04-20 at 04.02.19.png */,
+				08BC90872DB5FB7E007D367F /* Simulator Screenshot - iPhone 16 Pro - 2025-04-20 at 04.02.27.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
